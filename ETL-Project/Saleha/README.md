@@ -35,7 +35,7 @@ Imported 2015 -2021 world happiness csv files from Kaggle.com into Pandas.
 
 1.	Created world happiness db in PostgreSQL with seperate tables.
 2.	Imported data into tables directly from Pandas using SQL Alchemy engine.
-1.	Used Pymongo to create a connection from Pandas to MongoDB local host.
+
 
 **Insights**
 
